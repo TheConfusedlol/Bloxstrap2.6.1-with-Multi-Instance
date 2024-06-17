@@ -3,4 +3,4 @@ originally made by vertical (horizanvet) on discord
 
 Installation
 
-To use it,simply replace the Bloxstrap.exe at \AppData\Local\Bloxstrap with the given e.xe
+To use it,simply replace the Bloxstrap.exe at \AppData\Local\Bloxstrap with the given .exe
